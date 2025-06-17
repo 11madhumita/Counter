@@ -22,4 +22,10 @@ CSS – Styling and layout
 
 JavaScript – Logic and interactivity
 
+🌐 Live Demo
+
+Click here to view the live version:  
+👉 [Passenger Counter App] 
+(https://cerulean-hamster-e8f18a.netlify.app/)
+
 
